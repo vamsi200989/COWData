@@ -1,44 +1,37 @@
-{
-	"items": [
-		{
-			"name": "Thighs",
-			"id": 1,
-			"description": "accusamus beatae ad facilis cum similique qui sunt",
-			"imageUrl": "https://via.placeholder.com/600/92c952",
-			"thumbnailUrl": "https://via.placeholder.com/150/92c952",
-			"price":50,
-		},
-		{
-			"name": "Liver",
-			"id": 2,
-			"description": "reprehenderit est deserunt velit ipsam",
-			"imageUrl": "https://via.placeholder.com/600/771796",
-			"thumbnailUrl": "https://via.placeholder.com/150/771796",
-			"price":300,
-		},
-		{
-			"name": "wholebody",
-			"id": 3,
-			"description": "officia porro iure quia iusto qui ipsa ut modi",
-			"imageUrl": "https://via.placeholder.com/600/24f355",
-			"thumbnailUrl": "https://via.placeholder.com/150/24f355",
-			"price":200,
-		},
-		{
-			"name": 1,
-			"id": 4,
-			"description": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-			"imageUrl": "https://via.placeholder.com/600/d32776",
-			"thumbnailUrl": "https://via.placeholder.com/150/d32776",
-			"price":150,
-		},
-		{
-			"name": 1,
-			"id": 5,
-			"description": "natus nisi omnis corporis facere molestiae rerum in",
-			"imageUrl": "https://via.placeholder.com/600/f66b97",
-			"thumbnailUrl": "https://via.placeholder.com/150/f66b97",
-			"price":100,
-		}
-	]
-}
+[
+	{
+		"productId": "3c2cc0bf-c3d0-4ad3-8c1f-0e52f1bb9c24",
+		"name": "Thigs",
+		"quantity": 20,
+		"price": 50,
+		"imageUrl": "https://via.placeholder.com/600/92c952"
+	},
+	{
+		"productId": "25fad839-8de3-40fc-96a1-7b5dee505929",
+		"name": "liver",
+		"quantity": 20,
+		"price": 50,
+		"imageUrl": "https://via.placeholder.com/600/92c952"
+	},
+	{
+		"productId": "da5148ff-1d93-4da2-9c9a-d7f9d23512f1",
+		"name": "wholebody",
+		"quantity": 20,
+		"price": 50,
+		"imageUrl": "https://via.placeholder.com/600/92c952"
+	},
+	{
+		"productId": "a9bad3d1-f71a-4225-9ddd-452fb9ac040f",
+		"name": "Thigs",
+		"quantity": 20,
+		"price": 50,
+		"imageUrl": "https://via.placeholder.com/600/92c952"
+	},
+	{
+		"productId": "37200f46-cf2f-4bb0-b88b-f2c5e41b4bd2",
+		"name": "Thigs",
+		"quantity": 20,
+		"price": 50,
+		"imageUrl": "https://via.placeholder.com/600/92c952"
+	}
+]
