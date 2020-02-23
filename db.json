@@ -5,6 +5,7 @@
 		"name": "Thigs",
 		"quantity": 20,
 		"price": 50,
+		"description":"Chicken Thighs",
 		"imageUrl": "https://via.placeholder.com/600/92c952"
 	},
 	{
@@ -12,6 +13,7 @@
 		"name": "liver",
 		"quantity": 20,
 		"price": 50,
+		"description":"Chicken Liver",
 		"imageUrl": "https://via.placeholder.com/600/92c952"
 	},
 	{
@@ -19,6 +21,7 @@
 		"name": "wholebody",
 		"quantity": 20,
 		"price": 50,
+		"description":"Chicken whole body",
 		"imageUrl": "https://via.placeholder.com/600/92c952"
 	},
 	{
@@ -26,6 +29,7 @@
 		"name": "Thigs",
 		"quantity": 20,
 		"price": 50,
+		"description":"Chicken Thighs",
 		"imageUrl": "https://via.placeholder.com/600/92c952"
 	},
 	{
@@ -33,6 +37,7 @@
 		"name": "Thigs",
 		"quantity": 20,
 		"price": 50,
+		"description":"Chicken Thighs",
 		"imageUrl": "https://via.placeholder.com/600/92c952"
 	}
 ]
